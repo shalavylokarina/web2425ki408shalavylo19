@@ -7,7 +7,7 @@ Lab4
 
 ---
 
-## 📌 Repository Description
+## Repository Description
 
 This repository contains the implementation of user authentication using third-party services:
 - Google OAuth (simulated login);
@@ -16,7 +16,7 @@ This repository contains the implementation of user authentication using third-p
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 - HTML / CSS / JavaScript  
 - PHP (simulated processing)  
 - JSON  
